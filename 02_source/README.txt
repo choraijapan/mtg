@@ -1,0 +1,1 @@
+cocos2dx  ->  cocos2d-x-3.0beta2
